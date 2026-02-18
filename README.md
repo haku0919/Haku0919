@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Haku&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Haku&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="200" />
@@ -14,6 +14,7 @@
   
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
@@ -24,8 +25,8 @@
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 <div align="center">
@@ -56,24 +57,10 @@
 
 <div align="center">
   
-  ### 🎯 Future Goals 🎯
-  
-  ```text
-  🔹 Go Programming      ▰▰▱▱▱▱▱▱▱▱  20%
-  🔹 Django              ▰▰▱▱▱▱▱▱▱▱  20%
-  🔹 Web Hacking         ▰▰▰▱▱▱▱▱▱▱  30%
-  🔹 System Hacking      ▰▰▱▱▱▱▱▱▱▱  20%
-  🔹 WebSocket           ▰▱▱▱▱▱▱▱▱▱  10%
-  🔹 Flutter             ▰▱▱▱▱▱▱▱▱▱  10%
-  ```
-</div>
-
-<div align="center">
-  
   ### 📫 Let's Connect! 📫
   
   <a href="https://discord.com/users/nangman._.boy">
-    <img src="https://img.shields.io/badge/Discord-chltjdbs486-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-haku0919-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
   > 💬 Looking for development collaborators! Feel free to add me on Discord!
